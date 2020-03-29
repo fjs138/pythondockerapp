@@ -1,5 +1,5 @@
 # Python Docker App
-A docker app that hosts a website utilizes python, flask, redis.
+A docker app that hosts a website.
 
 # Technology Stack:
 
